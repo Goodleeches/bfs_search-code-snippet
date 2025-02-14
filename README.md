@@ -1,5 +1,5 @@
 # bfs_search-code-snippet
-
+'''
 	// bfs search
 	int startX = getArrIndex().x;
 	int startY = getArrIndex().y;
